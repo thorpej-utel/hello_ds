@@ -18,3 +18,15 @@ conda create -n myenv python=3.10 pandas jupyter seaborn scikit-learn keras tens
 conda install -n base ipykernel --update-deps --force-reinstall
 conda clean -a
 
+ conda activate myenv
+
+
+
+#
+# To activate this environment, use
+#
+#     $ conda activate myenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
