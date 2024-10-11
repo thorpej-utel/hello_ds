@@ -15,4 +15,3 @@ Note: If you already have the full Anaconda distribution installed, you don't ne
 conda create -n myenv python=3.10 pandas jupyter seaborn scikit-learn keras tensorflow
 conda install -n base ipykernel --update-deps --force-reinstall
 
-conda install -n base ipykernel --update-deps --force-reinstall
