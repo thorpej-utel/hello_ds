@@ -1,5 +1,7 @@
 #hello ds
 
+This is me working through the examples in https://code.visualstudio.com/docs/datascience/data-science-tutorial
+
 Prerequisites
 The following installations are required for the completion of this tutorial. Make sure to install them if you haven't already.
 
