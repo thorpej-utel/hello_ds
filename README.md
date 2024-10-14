@@ -19,3 +19,15 @@ conda install -n base ipykernel --update-deps --force-reinstall
 conda clean -a
 conda install -n myenv -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 
+ conda activate myenv
+
+
+
+#
+# To activate this environment, use
+#
+#     $ conda activate myenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
