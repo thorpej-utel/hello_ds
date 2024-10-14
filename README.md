@@ -17,4 +17,5 @@ Note: If you already have the full Anaconda distribution installed, you don't ne
 conda create -n myenv python=3.10 pandas jupyter seaborn scikit-learn keras tensorflow
 conda install -n base ipykernel --update-deps --force-reinstall
 conda clean -a
+conda install -n myenv -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 
